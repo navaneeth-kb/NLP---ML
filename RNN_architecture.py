@@ -24,3 +24,10 @@ model.compile(optimizer='adam', loss='mean_squared_error')
 # Print a summary of the model
 # - This shows the layers of the model, output shapes, and the number of parameters.
 model.summary()
+
+'''
+Feature	              RNN	                     LSTM
+Ability to            Limited due to           Enhanced with memory 
+handle long-          vanishing gradients      cells and gates
+term dependencies	
+'''
