@@ -1,3 +1,6 @@
+What is NLP?
+NLP stands for Natural Language Processing. It involves teaching computers to understand and generate human language, such as English, Spanish, or any other language.
+
 Text Processors:
 1)Pre-Processing Steps of Text
 2)Bag of Words (BoW)
