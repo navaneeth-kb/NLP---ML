@@ -1,5 +1,4 @@
 Text Processors:
-
 1)Pre-Processing Steps of Text
 2)Bag of Words (BoW)
 3)One-Hot Encoding
